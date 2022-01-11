@@ -1,2 +1,2 @@
 # JS_LA
-JA_Learning_Activity. The JavaScript was only focused on the JavaScript functions so there was no styling incorporated into it.  
+JavaScript_Learning_Activity. Note that this JavaScript was only focused on the JavaScript functions so there was no styling incorporated into it.  
